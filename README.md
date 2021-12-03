@@ -5,7 +5,6 @@ Programa que diz hello!
 ##Alunos
 
 Eduardo Luan Stalisz
-foda-se
 
 ##Versions
 v1.0 - A primeira versao
